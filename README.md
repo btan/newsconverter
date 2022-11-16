@@ -14,4 +14,4 @@ It is a code snippet to show the ideas how to read news in properly formatted eb
 - Filter "ads", "video", "audio" components from HTML parsing
 - Save in reader device friendly 6 inch PDF file 
 
-The implementation for news parsing is to create device friendly reader, so that you can read any filtered HTML page taht fits nicely in my 6inch reader device. I can read properly formatted news from any site using the above concept and the utility tool to stream any news feed or news I would like to read. 
+The implementation for news parsing is to create device friendly reader, so that you can read any filtered HTML page that fits nicely in my 6inch reader device. I can read properly formatted news from any site using the above concept and the utility tool to stream any news feed or news I would like to read. 
