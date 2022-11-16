@@ -1,3 +1,15 @@
-# newsconverter
-An utilities tool to help convert rich html to simple html so that it can displayed in any ebook reader that supports html browser
-It describe the methods to parse WSJ news to simple HTML and display as 6 inches PDF format to show on any ebook reader
+# News Crawler and Converter
+## An utitilites tool to help convert rich HTML page to simple page so that it can display as user-friendly page in any 6 inches reader
+
+It is a code snippet to show the ideas how to read news in properly formatted ebook reader.
+
+- Problem Statement
+- Solution
+- ✨Enhancement✨
+
+## Features
+
+- Leverage on Selenium to automate web application parsing
+- Leverage on Bypass Paywall to read news and automate HTML parsing - This is strictly for education purpose
+- Filter "ads", "video", "audio" components from HTML parsing
+- Save in reader device friendly 6 inch PDF file 
