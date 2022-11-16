@@ -1,5 +1,5 @@
 # News Crawler and Converter
-## An utitilites tool to help convert rich HTML page to simple page so that it can display as user-friendly page in any 6 inches reader
+## An utitily tool to help convert rich HTML page to simple page so that it can display as user-friendly page in any 6 inches reader
 
 It is a code snippet to show the ideas how to read news in properly formatted ebook reader.
 
